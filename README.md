@@ -1,5 +1,5 @@
 # Soft Skills Track
-(Deprecated) - Please refer to the Life Skills Track for the latest updates.
+## Deprecated - Please refer to the Life Skills Track for the latest updates.
 [https://github.com/mountblue/life-skills-track](https://github.com/mountblue/life-skills-track)
 
 These are the sessions for the MountBlue training on the Soft Skills track.
