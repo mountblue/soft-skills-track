@@ -1,8 +1,10 @@
 # Soft Skills Track
+(Deprecated) - Please refer to the Life Skills Track for the latest updates.
+[https://github.com/mountblue/life-skills-track](https://github.com/mountblue/life-skills-track)
 
 These are the sessions for the MountBlue training on the Soft Skills track.
 
-We follow a learning pedagogy emphasis more on doing and reflection rather than passive learning. 
+We follow a learning pedagogy emphasis more on doing and reflection rather than passive learning.
 
 [Learning Pyramid](https://en.wikipedia.org/wiki/Learning_pyramid)
 
@@ -64,9 +66,9 @@ Go through these two links on bullet points:
 * [Improve Email productivity with Bullet Points](https://www.getorganizedwizard.com/blog/2010/11/improve-email-productivity-with-bullet-points/)
 * [Best practices for Bullet Points](https://www.businesswritingblog.com/business_writing/2005/12/the_best_of_bul.html)
 
-Use bullet points for conveying information. They need not be grammatically correct. 
+Use bullet points for conveying information. They need not be grammatically correct.
 
-Don't say: I completed writing Tasks controller. 
+Don't say: I completed writing Tasks controller.
 Say: Completed Tasks controller.
 
 Use complete sentences when writing down conversational communication. Like requesting for access or requesting leaves.
@@ -76,7 +78,7 @@ Use complete sentences when writing down conversational communication. Like requ
 Add signature to your gmail (3:20 minutes):
 [Add signature to Gmail](https://www.youtube.com/watch?v=X4k77veybI0)
 
-Add Signature to Migadu at 
+Add Signature to Migadu at
 Settings > Accounts > Edit your mountblue.tech Identity (default)
 
 * Add your full name.
@@ -118,11 +120,11 @@ Use bullet points only for the informational points
 
 This is the first day at your new company after you finish your training. Don't mention MountBlue Technology in this email. It is your first day at the client company that you have been deployed to.
 
-Please introduce yourself. You can talk about your hometown, your education, technologies you know and any hobbies. Write an email introducing yourself. 
+Please introduce yourself. You can talk about your hometown, your education, technologies you know and any hobbies. Write an email introducing yourself.
 
 * Subject: Hi
 * First line Hi, followed by a new line
-* 1 to 2 sentences introducing yourself and how do you feel that it is your first day in the company e.g. I am Santu Mahapatra. Today is my first day at your company. 
+* 1 to 2 sentences introducing yourself and how do you feel that it is your first day in the company e.g. I am Santu Mahapatra. Today is my first day at your company.
 * Followed by bullet points for the informational points - 4 to 6 points e.g. Hometown - <hometown>, B Tech from <college> in <course>, Technologies I have used in the past - <>, <>, Hobbies - <>, <>,
 * Then wrap up with a last sentence at the end.
 
@@ -152,7 +154,7 @@ You need git access and staging server credentials to do your work properly. Wri
 
 You need a longer vacation - around 5 days for Diwali/Holi/Eid to visit your family and spend time with them. Write an email with the request. Mention dates. Short crisp email with 2 to 4 sentences. No bullet points.
 
-##### Email 6 - Requesting Feedback Session 
+##### Email 6 - Requesting Feedback Session
 
 **No bullet points**
 
@@ -164,7 +166,7 @@ You want to have a feedback session with your supervisor on your performance in 
 
 [Grit Video](https://www.youtube.com/watch?v=H14bBuluwB8) - 6:12 minutes
 
-1. Paraphrase (summarize) the video in a few lines. Use your own words. 
+1. Paraphrase (summarize) the video in a few lines. Use your own words.
 2. What are your key takeaways from the video?
 
 ### 2. Introduction to Growth Mindset
@@ -214,7 +216,7 @@ You want to have a feedback session with your supervisor on your performance in 
 
 ### Learning How to Learn
 
-[Learning How to Learn TED talk](https://www.youtube.com/watch?v=O96fE1E-rf8) by Barbara Oakley - 
+[Learning How to Learn TED talk](https://www.youtube.com/watch?v=O96fE1E-rf8) by Barbara Oakley -
 17:50 minutes
 
 1. Paraphrase the video in detail in your own words.
